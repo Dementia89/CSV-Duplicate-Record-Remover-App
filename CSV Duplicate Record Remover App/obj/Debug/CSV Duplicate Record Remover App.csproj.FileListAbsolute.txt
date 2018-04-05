@@ -1,0 +1,7 @@
+D:\VS2017 Projects\GitHub\homework-exercises\CSV Duplicate Record Remover App\CSV Duplicate Record Remover App\bin\Debug\CSV Duplicate Record Remover App.exe.config
+D:\VS2017 Projects\GitHub\homework-exercises\CSV Duplicate Record Remover App\CSV Duplicate Record Remover App\bin\Debug\CSV Duplicate Record Remover App.exe
+D:\VS2017 Projects\GitHub\homework-exercises\CSV Duplicate Record Remover App\CSV Duplicate Record Remover App\bin\Debug\CSV Duplicate Record Remover App.pdb
+D:\VS2017 Projects\GitHub\homework-exercises\CSV Duplicate Record Remover App\CSV Duplicate Record Remover App\obj\Debug\CSV Duplicate Record Remover App.csprojResolveAssemblyReference.cache
+D:\VS2017 Projects\GitHub\homework-exercises\CSV Duplicate Record Remover App\CSV Duplicate Record Remover App\obj\Debug\CSV Duplicate Record Remover App.csproj.CoreCompileInputs.cache
+D:\VS2017 Projects\GitHub\homework-exercises\CSV Duplicate Record Remover App\CSV Duplicate Record Remover App\obj\Debug\CSV Duplicate Record Remover App.exe
+D:\VS2017 Projects\GitHub\homework-exercises\CSV Duplicate Record Remover App\CSV Duplicate Record Remover App\obj\Debug\CSV Duplicate Record Remover App.pdb
